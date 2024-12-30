@@ -1,23 +1,23 @@
 # Simple Neural Network in C
 
-This is a simple implementation of a neural network written in C, created from scratch. The project is designed for educational purposes, helping others (and myself) understand how neural networks function at a fundamental level.
+Ini adalah implementasi sederhana dari jaringan saraf tiruan (neural network) yang ditulis menggunakan bahasa C. Proyek ini dibuat dari nol untuk tujuan edukasi, membantu memahami cara kerja neural network pada level dasar.
 
-## Features
-- Implements basic neural network concepts, including forward propagation, backward propagation, and weight updates.
-- Uses ReLU and sigmoid activation functions.
-- Provides basic loss calculation (Mean Squared Error).
+## Fitur
+- Implementasi konsep dasar neural network, termasuk forward propagation, backward propagation, dan pembaruan bobot (weight update).
+- Menggunakan fungsi aktivasi ReLU dan sigmoid.
+- Menghitung nilai loss menggunakan Mean Squared Error (MSE).
 
-## Motivation
-This project was developed to deepen my understanding of neural networks while exploring C programming. It is inspired by my learning process with guidance from AI assistants like ChatGPT and Claude.
+## Motivasi
+Proyek ini dikembangkan untuk memperdalam pemahaman saya tentang neural network sambil mempraktikkan bahasa pemrograman C. Proyek ini terinspirasi dari proses belajar saya dengan bantuan AI seperti ChatGPT dan Claude.
 
-## Requirements
-- GCC compiler
-- GNU Make (optional, for compiling with the provided Makefile)
-- A terminal environment (e.g., Termux)
+## Persyaratan
+- Compiler GCC
+- GNU Make (opsional, untuk kompilasi menggunakan Makefile yang disediakan)
+- Terminal (contoh: Termux)
 
-## Installation and Usage
+## Cara Instalasi dan Penggunaan
 
-### Clone the Repository
+### Clone Repository
 ```bash
 git clone https://github.com/Faishalbhitex/Simple-Neural-Network-in-C.git
 cd Simple-Neural-Network-in-C
